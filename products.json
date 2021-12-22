@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "nombre": "remera",
+            "color": "rojo",
+            "precio": 10.00,
+            "stock" : 5,
+            "codigo": "A30",
+            "publicado": true
+
+        },
+        {
+            "id": 2,
+            "nombre": "camisa",
+            "color": "azul",
+            "precio": 13.00,
+            "stock" : 5,
+            "codigo": "A10",
+            "publicado": true
+
+        },
+        {
+            "id": 3,
+            "nombre": "remera",
+            "color": "verde",
+            "precio": 4.00,
+            "stock" : 10,
+            "codigo": "A13",
+            "publicado": false
+
+        }
+    ]
+}
