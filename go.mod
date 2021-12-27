@@ -1,4 +1,4 @@
-module github.com/usuario/web-server
+module github.com/github.com/Go-web-c1/practicaTM/go-web
 
 go 1.17
 
